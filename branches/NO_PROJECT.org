@@ -1,0 +1,22 @@
+#+TODO: TODO TOPR IMPROVE REBASE | DONE MERGED DELETED NOMERGE
+
+* NO_SECTION: Template keywords for this document
+
+- NO_SECTION: Don't use after this.
+- NO_PROJECT: the name of this file (modulo extension) and also the
+- NOTE: Branches are surrounded by [...]
+- NOTE: Make sure you don't copy any unwanted "NOTE" in your own file before deleting THIS_SECTION
+- no_goal: no_labels: <no text.> #no_pr [no_branch], anything
+  starting with "no_"
+
+* Definitions for project NO_PROJECT
+
+Project: NO_PROJECT
+username = jt
+
+* NOMERGE [1/1] no_goal: no_labels: <no text.> #no_pr [no_branch]
+** NOMERGE [3/5] no_goal: <link_to_the_branch> Last base: []
+*** NOMERGE [0/0] no_goal: <No text.> #NO_PR [NO_BRANCH]
+*** NOMERGE [0/0] no_goal: NO_LABELS: <No text.> #NO_PR [NO_BRANCH]
+* NOMERGE [0/0] another_goal: no_labels: <no text.> #no_pr [no_branch]
+*** NOMERGE [0/0] another_goal: <No text.> #NO_PR [NO_BRANCH]
